@@ -1,0 +1,13 @@
+{
+  "name": "utils",
+  "type": "module",
+  "version": "0.0.1",
+  "engines": {
+    "node": "^18.0.0 || >=20.0.0"
+  },
+  "scripts": {},
+  "dependencies": {
+    "lodash-es": "4.17.0"
+  },
+  "devDependencies": {}
+}
